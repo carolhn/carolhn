@@ -1,4 +1,4 @@
-### Oii!! Eu me chamo Caroline Nunes, sou estudante de Desenvolvimento Web na Trybe!
+### Oii!! Eu me chamo Carol (Caroline Nunes)
 
 - 🌱 I’m currently learning  a desenvolver na Trybe
 - 😄 Pronouns: ela/dela
