@@ -1,17 +1,18 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hello World, Eu sou a Caroline (Carol)!🌎️</h1>
 <br>
 
-<div  align="center">
+<div  align="center"><div  align="center">
 <a  align="center" target="_blank" href="https://www.linkedin.com/in/caroline-nunes-769307240/">
-  <img alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="LinkdeIN" width="25px" margin="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a  align="center" target="_blank" href="https://www.instagram.com/caarolhn/">
-  <img alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Instagram" width="25px" margin="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <a  align="center" target="_blank" href="mailto:nunescaroline905@gmail.com">
-  <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img alt="Gmail" width="25px" margin="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</div>
 </div>
 
 <br><br>
