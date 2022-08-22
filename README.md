@@ -6,7 +6,7 @@
 - 🏫️ Escola de programação Trybe.
 
 <div>
-<img align="right" src="https://media2.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e47giyigaf0uff7vaac718h8qajoxhf7zpyrczhnjui&rid=giphy.gif&ct=g" width=200px; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" src="https://media2.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e47giyigaf0uff7vaac718h8qajoxhf7zpyrczhnjui&rid=giphy.gif&ct=g" width=100px; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
 <h1 align="center">💻 Tecnologias & Ferramentas</h1>
