@@ -10,7 +10,8 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br><br>
-----
+
+
 - 🌱 Sou estudante de desenvolvimento Full Stack.<br>
 - 🏫️ Escola de programação Trybe.
 
