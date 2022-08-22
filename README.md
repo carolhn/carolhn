@@ -1,19 +1,20 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hello World, Eu sou a Caroline (Carol)!🌎️</h1>
 <br>
 
-<div aling="center">
-<a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-769307240/">
+<div  align="center">
+<a  align="center" target="_blank" href="https://www.linkedin.com/in/caroline-nunes-769307240/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/caarolhn/">
+<a  align="center" target="_blank" href="https://www.instagram.com/caarolhn/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="mailto:nunescaroline905@gmail.com">
+<a  align="center" target="_blank" href="mailto:nunescaroline905@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </div>
+
 <br><br>
-- 🌱 Sou estudante de desenvolvimento Full Stack.
+- 🌱 Sou estudante de desenvolvimento Full Stack.<br>
 - 🏫️ Escola de programação Trybe.
 
 
