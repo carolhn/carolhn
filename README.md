@@ -12,8 +12,12 @@
 <br>
 
 -----
-- 🌱 Sou estudante de desenvolvimento Full Stack.<br><br>
-- 🏫️ Escola de programação Trybe.
+- 👋 Hi, I’m  Carol<br>
+- 🌱 I'm a Full Stack development student<br>
+- 🏫️ Trybe programming school
+- 👀 I’m interested in  full stack development<br>
+- 🌱 I’m currently learning Reacte and Redux<br>
+- 📫 How to reach me : nunescaroline905@gmail.com<br>
 
 -----
 **💻 Tecnologias & Ferramentas:**
