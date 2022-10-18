@@ -34,6 +34,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&show_icons=true&theme=radical)
 
+<table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=carolhn&theme=radical&show_icons=true&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carolhn&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
 
 <table>
   <tr>
