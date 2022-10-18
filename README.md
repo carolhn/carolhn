@@ -28,11 +28,11 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my stats on Github!
    
-![Ary's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhn&count_private=true&title_color=dracula)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhn&show_icons=true&theme=radical)
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my main languages!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&langs_count=12&title_color=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&langs_count=12&title_color=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
