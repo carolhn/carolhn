@@ -32,7 +32,7 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my main languages!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&langs_count=12&title_color=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&langs_count=12&title_color=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
