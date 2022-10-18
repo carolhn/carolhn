@@ -38,10 +38,10 @@
 <table>
   <tr>
     <td width="40%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maite-marques&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&theme=radical&hide_border=true" />
     </td>
     <td width="70%" align="center" vertical-align="middle">
-      <img alt="Maitê Activity Chart" src="https://activity-graph.herokuapp.com/graph?username=maite-marques&bg_color=010017&color=ffffff&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
+      <img alt="Maitê Activity Chart" src="https://activity-graph.herokuapp.com/graph?username=carolhn&bg_color=010017&color=ffffff&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
     </td>
   </tr>
 </table>
