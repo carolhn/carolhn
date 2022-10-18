@@ -1,13 +1,13 @@
 ### 👋 Hello World, I'm Caroline (carol)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/caarolhn/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/color/344/instagram-new--v1.png" />
 </a>
 <a target="_blank" href="mailto:nunescaroline905@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/3d-fluency/344/gmail.png" />
 </a>
 <br>
 
