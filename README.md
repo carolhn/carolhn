@@ -29,7 +29,7 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my stats on Github!
 <table>
   <tr>
-    <td width="50%" align="center" vertical-align="middle">
+    <td width="40%" align="center" vertical-align="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=carolhn&theme=radical&show_icons=true&hide_border=true" />
     </td>
    </tr>
@@ -37,17 +37,11 @@
    
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my main languages!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&show_icons=true&theme=radical)
-
-
 <table>
   <tr>
     <td width="40%" align="center" vertical-align="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&theme=radical&hide_border=true" />
     </td>
-    <td width="70%" align="center" vertical-align="middle">
-      <img alt="Maitê Activity Chart" src="https://activity-graph.herokuapp.com/graph?username=carolhn&bg_color=010017&color=ffffff&line=b5179e&point=f72585&hide_border=true&area_color=0077b6&area=true" />
-    </td>
-  </tr>
+   </tr>
 </table>
 
