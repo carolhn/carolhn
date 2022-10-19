@@ -9,8 +9,6 @@
 <a target="_blank" href="mailto:nunescaroline905@gmail.com">
   <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/nolan/344/linkedin.png" />
 </a>
-<br>
-
 ##
 
 🔹 👋 Hi, I’m  Carol<br><br>
