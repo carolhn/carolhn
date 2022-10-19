@@ -1,5 +1,6 @@
 <h1>Hello World, I'm Caroline (carol)!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
+<div>
 <a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/">
   <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/nolan/344/linkedin-circled.png" />
 </a>
@@ -9,14 +10,20 @@
 <a target="_blank" href="mailto:nunescaroline905@gmail.com">
   <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/nolan/344/linkedin.png" />
 </a>
+</div>
+
+<br>
+
 ##
 
+<p>
 🔹 👋 Hi, I’m  Carol<br><br>
 🔹 🌱 I'm a Full Stack development student<br><br>
 🔹 🏫️ Trybe programming school<br><br>
 🔹 👀 I’m interested in  full stack development<br><br>
 🔹 🌱 I’m currently learning Reacte and Redux<br><br>
 🔹 📫 How to reach me : nunescaroline905@gmail.com<br><br>
+</p>
 
 ##
 
