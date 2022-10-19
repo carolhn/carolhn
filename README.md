@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Caroline (carol)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<h1>Hello World, I'm Caroline (carol)!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/">
   <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/nolan/344/linkedin-circled.png" />
@@ -20,8 +20,14 @@
 - 🌱 I’m currently learning Reacte and Redux<br>
 - 📫 How to reach me : nunescaroline905@gmail.com<br>
 
-<h3><img width="25px" src="https://cdn-icons-png.flaticon.com/512/3641/3641907.png" /> Technologies and Tools:</h3>
+##
+
+<h3>
+  <img width="25px" src="https://cdn-icons-png.flaticon.com/512/3756/3756488.png" /> Technologies and Tools:
+</h3>
+
 <br>
+
 <div>
 <img width="40px" height="40" src="https://img.icons8.com/nolan/344/css-filetype.png" alt="CSS">
 <img width="40px" height="40" src="https://img.icons8.com/nolan/344/html-filetype.png" alt="HTML">
@@ -51,7 +57,8 @@
 
 ##
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my stats on Github!
+#### <h3><img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my stats on Github!</h3>
+
 <table>
   <tr>
     <td width="40%" align="center" vertical-align="middle">
@@ -60,7 +67,7 @@
    </tr>
 </table>
    
-#### <img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my main languages!
+#### <h3><img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my main languages!</h3>
 
 <table>
   <tr>
