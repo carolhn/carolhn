@@ -51,7 +51,7 @@
 
 ##
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my stats on Github!
+#### <img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my stats on Github!
 <table>
   <tr>
     <td width="40%" align="center" vertical-align="middle">
@@ -60,7 +60,7 @@
    </tr>
 </table>
    
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my main languages!
+#### <img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my main languages!
 
 <table>
   <tr>
