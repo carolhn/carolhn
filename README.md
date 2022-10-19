@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td width="40%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=carolhn&theme=radical&show_icons=true&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=carolhn&&custom_title=Estat%C3%ADsticas%20de%20Lucas%20Github&theme=midnight-purple&include_all_commits=true&count_private=true" />
     </td>
    </tr>
 </table>
@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td width="40%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&theme=midnight-purple&custom_title=Linguagens%20mais%20usadas&layout=compact" />
     </td>
    </tr>
 </table>
