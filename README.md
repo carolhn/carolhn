@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td width="40%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&theme=midnight-purple&custom_title=Linguagens%20mais%20usadas&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&theme=midnight-purple&layout=compact" />
     </td>
    </tr>
 </table>
