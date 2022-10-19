@@ -11,7 +11,8 @@
 </a>
 <br>
 
------
+##
+
 - 👋 Hi, I’m  Carol<br>
 - 🌱 I'm a Full Stack development student<br>
 - 🏫️ Trybe programming school
@@ -19,12 +20,12 @@
 - 🌱 I’m currently learning Reacte and Redux<br>
 - 📫 How to reach me : nunescaroline905@gmail.com<br>
 
-<h3>💻 Technologies and Tools:</h3>
-
+<h3><img width="25px" src="https://cdn-icons-png.flaticon.com/512/3641/3641907.png" /> Technologies and Tools:</h3>
+<br>
 <div>
 <img width="40px" height="40" src="https://img.icons8.com/nolan/344/css-filetype.png" alt="CSS">
 <img width="40px" height="40" src="https://img.icons8.com/nolan/344/html-filetype.png" alt="HTML">
-<img width="40px" height="40" src="https://img.icons8.com/nolan/344/js.png" alt="JS">
+<img width="40px" height="40" src="https://img.icons8.com/nolan/344/javascript.png" alt="JS">
 </div>
 
 <div>
