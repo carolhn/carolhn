@@ -81,7 +81,7 @@
 
 <div align="center">
 <br>
-<p align="centre"><b>Visitors Count</b></p>  
+<p align="centre"><b>VISITORS COUNT</b></p>  
   <p align="center">
     <img align="center" src="https://komarev.com/ghpvc/?username=carolhn&color=blueviolet&style=for-the-badge" />
 </p>
