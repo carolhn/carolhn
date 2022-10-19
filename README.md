@@ -83,7 +83,7 @@
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
   <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=your-github-username" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=carolhn&color=blueviolet&style=for-the-badge" />
 </p>
 <br>
 </div
