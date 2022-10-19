@@ -21,7 +21,7 @@
 🔹 🌱 I'm a Full Stack development student<br><br>
 🔹 🏫️ Trybe programming school<br><br>
 🔹 👀 I’m interested in  full stack development<br><br>
-🔹 🌱 I’m currently learning Reacte and Redux<br><br>
+🔹 🌱 I’m currently learning React and Redux<br><br>
 🔹 📫 How to reach me : nunescaroline905@gmail.com<br><br>
 </p>
 
