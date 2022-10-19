@@ -1,13 +1,13 @@
 ### 👋 Hello World, I'm Caroline (carol)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />
+  <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/nolan/344/linkedin-circled.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/caarolhn/">
-  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/color/344/instagram-new--v1.png" />
+  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/nolan/344/instagram-new.png" />
 </a>
 <a target="_blank" href="mailto:nunescaroline905@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/3d-fluency/344/gmail.png" />
+  <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/nolan/344/linkedin.png" />
 </a>
 <br>
 
@@ -21,10 +21,34 @@
 
 -----
 **💻 Technologies and Tools:**
+<div>
+<img height="35" src="https://img.icons8.com/nolan/344/css-filetype.png" alt="CSS">
+<img height="35" src="https://img.icons8.com/nolan/344/html-filetype.png" alt="HTML">
+<img height="35" src="https://img.icons8.com/nolan/344/js.png" alt="JS">
+</div>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>           <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>      <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>         <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>           <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>          <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>            <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>                <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<div>
+  <h3>FRONT-END</h3>
+<img height="35" src="https://img.icons8.com/nolan/344/react-native.png" alt="REACT">
+<img height="34" src="https://img.icons8.com/color/344/redux.png" alt="REACT">
+</div>
 
------
+<div>
+  <h3>FERRAMENTAS</h3>
+<img height="35" src="https://img.icons8.com/nolan/344/git.png" alt="GIT">
+<img height="35" src="https://img.icons8.com/nolan/344/github.png" alt="GITHUB">
+<img height="30" src="https://img.icons8.com/nolan/344/console.png" alt="TERMINAL">
+  <img height="30" src="https://img.icons8.com/nolan/344/trello.png" alt="TRELLO">
+    <img height="30" src="https://img.icons8.com/nolan/344/slack.png" alt="SLECK">
+</div>
+
+<div>
+  <h3>TESTES</h3>
+<img height="35" src="https://cdn-icons-png.flaticon.com/512/3949/3949235.png" alt="JEST">
+<img height="35" src="https://cdn-icons-png.flaticon.com/512/4786/4786679.png" alt="LIBRARY">
+</div>
+
+---
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my stats on Github!
 <table>
