@@ -2,13 +2,13 @@
 
 <div>
 <a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/">
-  <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/nolan/344/linkedin-circled.png" />
+  <img align="left" alt="LinkdeIN" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/caarolhn/">
-  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/nolan/344/instagram-new.png" />
+  <img align="left" alt="Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" />
 </a>
 <a target="_blank" href="mailto:nunescaroline905@gmail.com">
-  <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/nolan/344/linkedin.png" />
+  <img align="left" alt="Gmail" width="38px" src="https://cdn-icons-png.flaticon.com/512/732/732026.png" />
 </a>
 </div>
 
