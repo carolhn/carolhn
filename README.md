@@ -1,21 +1,5 @@
 <h1>Hello World, I'm Caroline (carol)!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
-<div>
-<a target="_blank" href="https://www.linkedin.com/in/caroline-nunes-desenvolvimento-fullstack/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/caarolhn/">
-  <img align="left" alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" />
-</a>
-<a target="_blank" href="mailto:nunescaroline905@gmail.com">
-  <img align="left" alt="Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732026.png" />
-</a>
-</div>
-
-<br>
-
-##
-
 <p>
 🔹 👋 Hi, I’m  Carol<br><br>
 🔹 🌱 I'm a Full Stack development student<br><br>
