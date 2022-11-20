@@ -42,11 +42,11 @@
 
 <div>
 <h4>TOOLS</h4>
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/git.png" alt="GIT">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/github.png" alt="GITHUB">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/console.png" alt="TERMINAL">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/trello.png" alt="TRELLO">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/slack-new.png" alt="SLECK">
+<img width="38px" height="38" src="https://img.icons8.com/ios-filled/512/git.png" alt="GIT">
+<img width="38px" height="38" src="https://img.icons8.com/ios-filled/512/github.png" alt="GITHUB">
+<img width="38px" height="38" src="https://img.icons8.com/ios-filled/512/console.png" alt="TERMINAL">
+<img width="38px" height="38" src="https://img.icons8.com/ios-filled/512/trello.png" alt="TRELLO">
+<img width="38px" height="38" src="https://img.icons8.com/ios-filled/512/slack-new.png" alt="SLECK">
 </div>
 
 ##
