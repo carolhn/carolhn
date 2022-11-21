@@ -19,9 +19,9 @@
 <br>
 
 <div>
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/css-filetype.png" alt="CSS">
-<img width="37px" height="37" src="https://img.icons8.com/ios-filled/512/html-filetype.png" alt="HTML">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/javascript.png" alt="JS">
+<img width="40px" height="40" src="https://img.icons8.com/ios/512/css3.png" alt="CSS">
+<img width="41px" height="41" src="https://img.icons8.com/ios/512/html-5--v2.png" alt="HTML">
+<img width="40px" height="40" src="https://img.icons8.com/ios/512/javascript.png" alt="JS">
 </div>
 
 <div>
@@ -32,7 +32,7 @@
 
 <div>
 <h4>BACK-END</h4>
-<img width="43px" height="43" src="https://img.icons8.com/ios-filled/512/docker.png" alt="DOCKER">
+<img width="43px" height="43" src="https://img.icons8.com/ios/512/docker.png" alt="DOCKER">
 </div>
 
 <div>
