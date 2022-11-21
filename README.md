@@ -12,15 +12,12 @@
 
 ##
 
-<h3>
-  <p>SKILLS<p>
-</h3>
+<h3>SKILLS</h3>
 
-<br>
 
 <div>
 <img width="35px" height="35" src="https://img.icons8.com/ios/512/css3.png" alt="CSS">
-<img width="35px" height="35" src="https://img.icons8.com/ios/512/html-5--v2.png" alt="HTML">
+<img width="36px" height="36" src="https://img.icons8.com/ios/512/html-5--v2.png" alt="HTML">
 <img width="35px" height="35" src="https://img.icons8.com/ios/512/javascript.png" alt="JS">
 </div>
 
@@ -33,6 +30,7 @@
 <div>
 <h5>BACK-END</h5>
 <img width="35px" height="35" src="https://img.icons8.com/ios/512/docker.png" alt="DOCKER">
+<img width="35px" height="35" src="https://img.icons8.com/material/512/mysql-logo.png" alt="MYSQL">
 </div>
 
 <div>
