@@ -13,7 +13,7 @@
 ##
 
 <h3>
-  <img width="25px" src="https://icons8.com.br/icon/TwH5a9BejkN9/servi%C3%A7os" /> Technologies and Tools:
+  <p> Technologies and Tools:<p>
 </h3>
 
 <br>
