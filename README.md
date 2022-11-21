@@ -7,12 +7,13 @@
 ▫️ 👀 I’m interested in  full stack development<br><br>
 ▫️ 🌱 I’m currently learning Docker and MySQL<br><br>
 ▫️ 📫 How to reach me : nunescaroline905@gmail.com<br><br>
+▫️ 🐈 Fun Fact: I love cat<br>
 </p>
 
 ##
 
 <h3>
-  <img width="25px" src="https://cdn-icons-png.flaticon.com/512/3756/3756488.png" /> Technologies and Tools:
+  <img width="25px" src="https://icons8.com.br/icon/TwH5a9BejkN9/servi%C3%A7os" /> Technologies and Tools:
 </h3>
 
 <br>
