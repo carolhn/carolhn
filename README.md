@@ -13,7 +13,7 @@
 ##
 
 <h3>
-  <p>Skills<p>
+  <p>SKILLS<p>
 </h3>
 
 <br>
