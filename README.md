@@ -13,7 +13,7 @@
 ##
 
 <h3>
-  <p> Technologies and Tools:<p>
+  <p>Skills<p>
 </h3>
 
 <br>
