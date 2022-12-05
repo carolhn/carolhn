@@ -1,13 +1,12 @@
 <h1>Hello World, I'm Caroline (carol)!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 <p>
-▫️ 👋 Hi, I’m  Carol<br><br>
-▫️ 💻 I'm a Full Stack development student<br><br>
-▫️ 🏫️ Trybe programming school<br><br>
-▫️ 👀 I’m interested in  full stack development<br><br>
-▫️ 🌱 I’m currently learning Docker and MySQL<br><br>
-▫️ 📫 How to reach me : nunescaroline905@gmail.com<br><br>
-▫️ 🐈 Fun Fact: I love cat<br>
+💻 I'm a Full Stack development student<br><br>
+🏫️ Trybe programming school<br><br>
+👀 I’m interested in  full stack development<br><br>
+🌱 I’m currently learning Docker and MySQL<br><br>
+📫 How to reach me : nunescaroline905@gmail.com<br><br>
+🐈 Fun Fact: I love cat<br>
 </p>
 
 ##
