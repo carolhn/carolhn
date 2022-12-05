@@ -16,36 +16,36 @@
 
 
 <div>
-<img width="35px" height="35" src="https://img.icons8.com/ios/512/css3.png" alt="CSS">
-<img width="36px" height="36" src="https://img.icons8.com/ios/512/html-5--v2.png" alt="HTML">
-<img width="35px" height="35" src="https://img.icons8.com/ios/512/javascript.png" alt="JS">
+<img width="40px" height="40" src="https://img.icons8.com/ios/512/css3.png" alt="CSS">
+<img width="40px" height="40" src="https://img.icons8.com/ios/512/html-5--v2.png" alt="HTML">
+<img width="40px" height="40" src="https://img.icons8.com/ios/512/javascript.png" alt="JS">
 </div>
 
 <div>
 <h5>FRONT-END</h5>
-<img width="35px" height="35" src="https://img.icons8.com/ios-filled/512/react-native.png" alt="REACT">
-<img width="35px" height="35" src="https://img.icons8.com/ios/512/redux.png" alt="REDUX">
+<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/react-native.png" alt="REACT">
+<img width="40px" height="40" src="https://img.icons8.com/ios/512/redux.png" alt="REDUX">
 </div>
 
 <div>
 <h5>BACK-END</h5>
-<img width="35px" height="35" src="https://img.icons8.com/ios/512/docker.png" alt="DOCKER">
-<img width="35px" height="35" src="https://img.icons8.com/material/512/mysql-logo.png" alt="MYSQL">
+<img width="40px" height="40" src="https://img.icons8.com/ios/512/docker.png" alt="DOCKER">
+<img width="40px" height="40" src="https://img.icons8.com/material/512/mysql-logo.png" alt="MYSQL">
 </div>
 
 <div>
 <h5>TESTS</h5>
-<img width="35px" height="35" src="https://cdn-icons-png.flaticon.com/512/1841/1841310.png" alt="LIBRARY">
-<img width="35px" height="35" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/512/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-bold-tal-revivo.png" alt="JEST">
+<img width="40px" height="40" src="https://cdn-icons-png.flaticon.com/512/1841/1841310.png" alt="LIBRARY">
+<img width="40px" height="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/512/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-bold-tal-revivo.png" alt="JEST">
 </div>
 
 <div>
 <h5>TOOLS</h5>
-<img width="35px" height="35" src="https://img.icons8.com/ios-filled/512/git.png" alt="GIT">
-<img width="35px" height="35" src="https://img.icons8.com/ios-filled/512/github.png" alt="GITHUB">
-<img width="35px" height="35" src="https://img.icons8.com/ios-filled/512/console.png" alt="TERMINAL">
-<img width="35px" height="35" src="https://img.icons8.com/ios-filled/512/trello.png" alt="TRELLO">
-<img width="35px" height="35" src="https://img.icons8.com/ios-filled/512/slack-new.png" alt="SLECK">
+<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/git.png" alt="GIT">
+<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/github.png" alt="GITHUB">
+<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/console.png" alt="TERMINAL">
+<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/trello.png" alt="TRELLO">
+<imgwidth="40px" height="40" src="https://img.icons8.com/ios-filled/512/slack-new.png" alt="SLECK">
 </div>
 
 ##
