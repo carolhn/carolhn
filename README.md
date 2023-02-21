@@ -25,11 +25,11 @@ export default {
     languages: [
       'Javascript', 'TypeScript'
     ],    
-    back-end: [
+    backend: [
       'Node.js', 'Express', 'Sequelize',
       'JWT', 'MySQL', 'MongoDB',
     ],
-    front-end: [
+    frontend: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
       'React', 'Redux', 'Context API', 'Hooks',
       'RTL', 'Jest', 'Testing Library',
