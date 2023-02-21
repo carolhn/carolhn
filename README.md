@@ -18,69 +18,21 @@ I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_
 
 <h3>SKILLS</h3>
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<div>
-<img width="40px" height="40" src="https://img.icons8.com/ios/512/css3.png" alt="CSS">
-<img width="40px" height="40" src="https://img.icons8.com/ios/512/html-5--v2.png" alt="HTML">
-<img width="40px" height="40" src="https://img.icons8.com/ios/512/javascript.png" alt="JS">
-</div>
-
-<div>
-<h5>FRONT-END</h5>
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/react-native.png" alt="REACT">
-<img width="40px" height="40" src="https://img.icons8.com/ios/512/redux.png" alt="REDUX">
-</div>
-
-<div>
-<h5>BACK-END</h5>
-<img width="40px" height="40" src="https://img.icons8.com/ios/512/docker.png" alt="DOCKER">
-<img width="40px" height="40" src="https://img.icons8.com/material/512/mysql-logo.png" alt="MYSQL">
-</div>
-
-<div>
-<h5>TESTS</h5>
-<img width="40px" height="40" src="https://cdn-icons-png.flaticon.com/512/1841/1841310.png" alt="LIBRARY">
-<img width="40px" height="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/512/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-bold-tal-revivo.png" alt="JEST">
-</div>
-
-<div>
-<h5>TOOLS</h5>
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/git.png" alt="GIT">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/github.png" alt="GITHUB">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/console.png" alt="TERMINAL">
-<img width="40px" height="40" src="https://img.icons8.com/ios-filled/512/trello.png" alt="TRELLO">
-<imgwidth="40px" height="40" src="https://img.icons8.com/ios-filled/512/slack-new.png" alt="SLECK">
-</div>
+![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![GMAIL](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com)
 
 ##
-
-#### <h3><img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my stats on Github!</h3>
-
-<table>
-  <tr>
-    <td width="40%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=carolhn&theme=midnight-purple&include_all_commits=true&count_private=true" />
-    </td>
-   </tr>
-</table>
-   
-#### <h3><img src="https://cdn-icons-png.flaticon.com/512/4940/4940215.png" width="30"> See my main languages!</h3>
-
-<table>
-  <tr>
-    <td width="40%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&theme=midnight-purple&layout=compact" />
-    </td>
-   </tr>
-</table>
-
-##
-
-  
-<div align="center">
-<p><a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto: nunescaroline905@gmail.com"><img src="https://img.shields.io/badge/-nunescaroline905-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a></p>
-</div>
-  
   
 <div align="center">
 <br>
