@@ -6,6 +6,7 @@ I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_
 <img align="right" width="210" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
 
 ```javascript
+<div align="center">
 
 export default {
   name: 'Caroline Nunes da Silva',
@@ -38,6 +39,8 @@ export default {
     ],
   },
 };
+
+</div>
 ```
 
 
