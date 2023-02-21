@@ -12,11 +12,12 @@ I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_
 
 <p>
 :computer: I'm a Full Stack development student<br><br>
-:school:Trybe programming school<br><br>
-:pushpin: I’m currently learning TypeScript<br><br>
-:mailbox_with_no_mail: How to reach me : nunescaroline905@gmail.com<br><br>
+:school:I'm studying web development at Trybe<br><br>
+:pushpin:  I'm learning TypeScript<br><br>
+:mailbox_with_no_mail: How to reach me: nunescaroline905@gmail.com<br><br>
 :octocat: Fun Fact: I love cat<br>
 </p>
+
 
 ##
 
