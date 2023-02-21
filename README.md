@@ -1,18 +1,23 @@
-<div align="center" font-size"10px">
+<div align="center">
   <h2> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
-  I'm
-  <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)!</a>
- </h2>
+  <p>I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)</a>
+  !</h2>
+  </p>
+</div>
+
+<div align="center">
+<p><a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto: nunescaroline905@gmail.com"><img src="https://img.shields.io/badge/-nunescaroline905-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a></p>
 </div>
 
 
+<img align="right" width="150" src="https://media0.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif?cid=ecf05e47b6ifdsq72vnttr4yhauvkluw20n7gyk3p0pgc6gd&rid=giphy.gif&ct=g"/>
+
 <p>
-💻 I'm a Full Stack development student<br><br>
-🏫️ Trybe programming school<br><br>
-👀 I’m interested in  full stack development<br><br>
-🌱 I’m currently learning Docker and MySQL<br><br>
-📫 How to reach me : nunescaroline905@gmail.com<br><br>
-🐈 Fun Fact: I love cat<br>
+:computer: I'm a Full Stack development student<br><br>
+:school:Trybe programming school<br><br>
+:pushpin: I’m currently learning Docker and MySQL<br><br>
+:mailbox_with_no_mail: How to reach me : nunescaroline905@gmail.com<br><br>
+:octocat: Fun Fact: I love cat<br>
 </p>
 
 ##
