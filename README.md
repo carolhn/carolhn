@@ -1,21 +1,19 @@
 <div align="center">
   <h2> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
-  <p>I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)</a>
+I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)</a>
   !</h2>
-  </p>
 </div>
 
 <div align="center">
 <p><a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto: nunescaroline905@gmail.com"><img src="https://img.shields.io/badge/-nunescaroline905-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a></p>
 </div>
 
-
-<img align="right" width="200" src="https://media2.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e474kwe5psyotq6c7nleqd5utaamka3g839hzpme53y&rid=giphy.gif&ct=g"/>
+<img align="right" width="250" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
 
 <p>
 :computer: I'm a Full Stack development student<br><br>
 :school:Trybe programming school<br><br>
-:pushpin: I’m currently learning Docker and MySQL<br><br>
+:pushpin: I’m currently learning TypeScript<br><br>
 :mailbox_with_no_mail: How to reach me : nunescaroline905@gmail.com<br><br>
 :octocat: Fun Fact: I love cat<br>
 </p>
