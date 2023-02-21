@@ -3,6 +3,7 @@
 I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)</a></h2>
 </div>
 
+<br>
 <img align="right" width="210" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
 
 <p>
