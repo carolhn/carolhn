@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="37" />
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font='Rajdhani'%2C+sans-serif;&weight=600&size=28&pause=1000&color=2589EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=210&lines=Hello+World%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=2589EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=205&lines=Hello+World%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font='Rajdhani'%2C+sans-serif;&weight=500&size=25&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=410&lines=I'm+Caroline+Nunes(Carol))](https://git.io/typing-svg)
 </div>
   
@@ -25,17 +25,18 @@ export default {
     languages: [
       'Javascript', 'TypeScript'
     ],    
+    frontend: [
+      'HTML5', 'CSS3', 'Javascript', 'React',
+      'Redux', 'Context API', 'Hooks', 'RTL',
+      'Jest', 'Testing Library',
+    ],
     backend: [
       'Node.js', 'Express', 'Sequelize',
       'JWT', 'MySQL', 'MongoDB',
     ],
-    frontend: [
-      'HTML5', 'CSS3', 'Javascript', 'Jest',
-      'React', 'Redux', 'Context API', 'Hooks',
-      'RTL', 'Jest', 'Testing Library',
-    ],
     tools: [
-      'Git', 'Github', 'Trello', 'Visual Studio Code',
+      'Git', 'Github', 'Trello',
+      'Visual Studio Code', 'Terminal',
     ],
   },
 };
