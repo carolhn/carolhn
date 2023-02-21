@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="37" />
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font='Rajdhani'%2C+sans-serif;&weight=600&size=28&pause=1000&color=2589EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=200&lines=Hello+World.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font='Rajdhani'%2C+sans-serif;&weight=600&size=28&pause=1000&color=2589EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=210&lines=Hello+World%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font='Rajdhani'%2C+sans-serif;&weight=500&size=25&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=410&lines=I'm+Caroline+Nunes(Carol))](https://git.io/typing-svg)
 
 
