@@ -46,11 +46,9 @@ export default {
 ##
   
 <div align="center">
-<br>
-<p align="centre"><b>VISITORS COUNT</b></p>  
-  <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=carolhn&color=blueviolet&style=for-the-badge" />
-</p>
-<br>
-</div
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=12&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=130&lines=VISITORS+COUNT)](https://git.io/typing-svg)
+ 
+<img align="center" src="https://komarev.com/ghpvc/?username=carolhn&color=blue&style=for-the-badge" />
+</div> 
 
