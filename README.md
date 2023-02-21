@@ -2,7 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="37" />
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=2589EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=205&lines=Hello+World%2C)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&lines=I'+m+Caroline+Nunes(Carol))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=405&lines=I'+m+Caroline+Nunes(Carol))](https://git.io/typing-svg)
 </div>
   
   
@@ -18,8 +18,8 @@ export default {
     profile: `Tenho 24 anos, sou da cidade de Tubarão - Santa Catarina.
       Sou formado em Administração, e estou migrando para área de programação com  
       uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,      
-    objective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
-      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
+    objective: `Continuar aprimorando meus conhecimentos como desenvolvedora Full Stack,
+      com finalidade de adquirir experiências que possam agregar ao meu futuro.`,
   },
   skills: {
     languages: [
