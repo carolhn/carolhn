@@ -16,7 +16,7 @@ I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_
 
 ##
 
-<h3>SKILLS</h3>
+<h3 align="center">SKILLS</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
