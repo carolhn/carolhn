@@ -8,7 +8,7 @@ I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_
 <p><a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto: nunescaroline905@gmail.com"><img src="https://img.shields.io/badge/-nunescaroline905-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a></p>
 </div>
 
-<img align="right" width="250" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
+<img align="right" width="220" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
 
 <p>
 :computer: I'm a Full Stack development student<br><br>
