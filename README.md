@@ -32,7 +32,7 @@ export default {
     ],
     backend: [
       'Node.js', 'Express', 'Sequelize',
-      'JWT', 'MySQL', 'MongoDB',
+      'JWT', 'MySQL', 'MongoDB', 'Docker',
     ],
     tools: [
       'Git', 'Github', 'Trello',
