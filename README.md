@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Caroline (carol)!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
+<h1 aling="center" font-family: 'Poppins', sans-serif;>Hello World, I'm Caroline (carol)!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"></h1>
 
 <p>
 💻 I'm a Full Stack development student<br><br>
