@@ -1,4 +1,4 @@
-<h1 align="center" >Hello World, I'm Caroline (carol)!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px" height="20px"></h1>
+<h1 align="center" >Hello World, I'm <p color="pink"> Caroline (carol)</p>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px" height="20px"></h1>
 
 
 <p>
