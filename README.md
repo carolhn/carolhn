@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="37" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="45" />
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=2589EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=205&lines=Hello+World%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=405&lines=I'+m+Caroline+Nunes(Carol))](https://git.io/typing-svg)
@@ -23,7 +23,7 @@ export default {
   },
   skills: {
     languages: [
-      'Javascript', 'TypeScript'
+      'Javascript', 'TypeScript',
     ],    
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'React',
@@ -32,19 +32,21 @@ export default {
     ],
     backend: [
       'Node.js', 'Express', 'Sequelize',
-      'JWT', 'MySQL', 'MongoDB', 'Docker',
+      'JWT', 'MySQL', 'MongoDB', 'POO',
     ],
     tools: [
-      'Git', 'Github', 'Trello',
+      'Git', 'Github', 'Trello','Docker',
       'Visual Studio Code', 'Terminal',
     ],
   },
 };
 
 ```
+##
+
+
 
 ##
-  
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=12&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=130&lines=VISITORS+COUNT)](https://git.io/typing-svg)
