@@ -1,6 +1,8 @@
 <div align="center">
-  <h2> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />,
+  <h2> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
+    <p>
 I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)</a></h2>
+  </p>
 </div>
 
 <img align="right" width="210" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
