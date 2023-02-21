@@ -15,21 +15,21 @@ export default {
   linkedin: 'https://www.linkedin.com/in/caroline-nunes-devfullstack/',
   contato: '(48)98803-7114',
   description: {
-    myProfile: `Tenho 24 anos, sou da cidade de Tubarão- Santa Catarina.
-      Sou formado em Administração e estou migrando de área, agarrando
-      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,
-    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
+    profile: `Tenho 24 anos, sou da cidade de Tubarão - Santa Catarina.
+      Sou formado em Administração, e estou migrando para área de programação com  
+      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,      
+    objective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
       com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
   },
   skills: {
     languages: [
       'Javascript', 'TypeScript'
     ],    
-    backend: [
+    back-end: [
       'Node.js', 'Express', 'Sequelize',
       'JWT', 'MySQL', 'MongoDB',
     ],
-    frontend: [
+    front-end: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
       'React', 'Redux', 'Context API', 'Hooks',
       'RTL', 'Jest', 'Testing Library',
