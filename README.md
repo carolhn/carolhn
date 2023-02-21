@@ -4,7 +4,6 @@ I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_
 </div>
 
 ```javascript
-<div align="center">
 
 export default {
   name: 'Caroline Nunes da Silva',
@@ -38,7 +37,6 @@ export default {
   },
 };
 
-</div>
 ```
 
 ##
