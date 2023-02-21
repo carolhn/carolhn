@@ -1,9 +1,6 @@
-<h1 align="center" >Hello World, I'm <p color="pink"> Caroline (carol)</p>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px" height="20px"></h1>
-
-
 <div align="center" font-size"10px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
   <h2> Hello World, I'm
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
     <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes</a>
   </h2>
 </div>
