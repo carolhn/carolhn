@@ -5,6 +5,54 @@ I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_
 
 <img align="right" width="210" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
 
+```javascript
+
+export default {
+  name: 'Caroline Nunes da Silva',
+  from: 'Tubarão - Brazil',
+  email: 'nunescaroline905@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/caroline-nunes-devfullstack/',
+  contato: '(48)98803-7114',
+  description: {
+    myProfile: `Tenho 24 anos, sou da cidade de Tubarão- Santa Catarina.
+      Sou formado em Administração e estou migrando de área, agarrando
+      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,
+    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
+      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
+  },
+  skills: {
+    languages: [
+      'Javascript', 'TypeScript'
+    ],    
+    backend: [
+      'Node.js', 'Express', 'Sequelize',
+      'JWT', 'MySQL', 'MongoDB',
+    ],
+    frontend: [
+      'HTML5', 'CSS3', 'Javascript', 'Jest',
+      'React', 'Redux', 'Context API', 'Hooks',
+      'RTL', 'Jest', 'Testing Library',
+    ],
+    tools: [
+      'Git', 'Github', 'Trello', 'Visual Studio Code',
+    ],
+  },
+};
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>
 🏠 Tubarão - Brazil<br><br>
 :computer: I'm studying web development at Trybe<br><br>
