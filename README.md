@@ -10,7 +10,7 @@
 </div>
 
 
-<img align="right" width="150" src="https://media0.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif?cid=ecf05e47b6ifdsq72vnttr4yhauvkluw20n7gyk3p0pgc6gd&rid=giphy.gif&ct=g"/>
+<img align="right" width="250" src="https://media2.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e474kwe5psyotq6c7nleqd5utaamka3g839hzpme53y&rid=giphy.gif&ct=g"/>
 
 <p>
 :computer: I'm a Full Stack development student<br><br>
