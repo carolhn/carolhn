@@ -1,9 +1,7 @@
 <div align="center" font-size"10px">
-  <h2> Hello World
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
-  
-<h2>I'm
-  <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol) !!</a>
+  <h2> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
+  I'm
+  <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)!</a>
  </h2>
 </div>
 
