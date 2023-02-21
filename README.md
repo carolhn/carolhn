@@ -1,7 +1,7 @@
 <h1 align="center" >Hello World, I'm <p color="pink"> Caroline (carol)</p>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px" height="20px"></h1>
 
 
-<div align="center">
+<div align="center" font-size="20px">
 <h1> Hello World, I'm  <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 </div>
 
