@@ -1,9 +1,13 @@
 <div align="center">
-  <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="27" />
-    <p>I'm <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank">Caroline Nunes(Carol)</a></h1>
-  </p>
-</div>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="37" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font='Rajdhani'%2C+sans-serif;&weight=500&size=30&pause=1000&color=2374EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=210&lines=Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font='Rajdhani'%2C+sans-serif;&weight=500&size=30&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=480&lines=I'm+Caroline+Nunes(Carol))](https://git.io/typing-svg)
 
+
+</div>
+  
+  
 ```javascript
 
 export default {
