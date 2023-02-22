@@ -18,8 +18,8 @@ export default {
     myProfile: `Sou formada em Administração e fiz transição de carreira para a
        área de Desenvolvimento Web. Tecnologia pra mim representa foco, disciplina
        e paixão por cada detalhe.`,
-    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedora Full Stack,
-       com a finalidade de adquirir esxperiencia para impactar mais vidas utilizando a programação!`,      
+    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedora Full Stack, com
+       a finalidade de adquirir experiência para impactar mais vidas utilizando a programação!`,      
   },
   skills: {
     languages: [
