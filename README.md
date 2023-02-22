@@ -59,7 +59,7 @@ export default {
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=12&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=130&lines=VISITORS+COUNT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=1&pause=8000&width=170&lines=Profile+Visitor+Count)](https://git.io/typing-svg)
  
 <img align="center" src="https://komarev.com/ghpvc/?username=carolhn&color=blue&style=for-the-badge" />
 </div> 
