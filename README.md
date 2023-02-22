@@ -31,8 +31,8 @@ export default {
       'Jest', 'Testing Library',
     ],
     backend: [
-      'Node.js', 'Express', 'Sequelize',
-      'JWT', 'MySQL', 'MongoDB', 'POO',
+      'Node.js', 'Express', 'JWT',
+      'MySQL', 'MongoDB','Sequelize',
     ],
     tools: [
       'Git', 'Github', 'Trello','Docker',
