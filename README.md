@@ -19,7 +19,7 @@ export default {
       Sou formado em Administração, e estou migrando para área de programação com  
       uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,      
     objective: `Continuar aprimorando meus conhecimentos como desenvolvedora Full Stack,
-      com finalidade de adquirir experiências que possam agregar ao meu futuro.`,
+      com a finalidade de adquirir experiências que possam agregar ao meu futuro.`,
   },
   skills: {
     languages: [
@@ -44,6 +44,7 @@ export default {
 ```
 ##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhn&show_icons=true&theme=github_dark)
 
 
 ##
