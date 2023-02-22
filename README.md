@@ -43,12 +43,16 @@ export default {
 
 ```
 ##
-Vamos conversar?
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=1&pause=1&width=100&lines=Contact)](https://git.io/typing-svg)
+
 <div><br>
   <a href="https://www.instagram.com/caarolhn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: nunescaroline905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caroline-nunes-devfullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+</div> 
 
 
 ##
