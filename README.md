@@ -44,10 +44,6 @@ export default {
 ```
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhn&show_icons=true&theme=github_dark)
-
-
-##
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=12&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=130&lines=VISITORS+COUNT)](https://git.io/typing-svg)
