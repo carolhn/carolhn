@@ -15,10 +15,9 @@ export default {
   linkedin: 'https://www.linkedin.com/in/caroline-nunes-devfullstack/',
   contato: '(48)98803-7114',
   description: {
-    myProfile: `Sou formada em Administração e atualmente estou em transição de carreira
-       para a área de Desenvolvimento Web. Tecnologia pra mim representa foco, disciplina
-       e paixão por cada detalhe. Meu primeiro contato com desenvolvimento foi na Trybe,
-       onde eu desenvolvi algumas habilidades de Soft Skills e Hard Skills.`,
+    myProfile: `Sou formada em Administração e fiz transição de carreira para a
+       área de Desenvolvimento Web. Tecnologia pra mim representa foco, disciplina
+       e paixão por cada detalhe.`,
     myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedora Full Stack,
        com a finalidade de adquirir esxperiencia para impactar mais vidas utilizando a programação!`,      
   },
