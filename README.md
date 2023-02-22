@@ -15,11 +15,10 @@ export default {
   linkedin: 'https://www.linkedin.com/in/caroline-nunes-devfullstack/',
   contato: '(48)98803-7114',
   description: {
-    myProfile: `Tenho 24 anos e sou da cidade de Tubarão - Santa Catarina.
-       Sou formada em Administração e atualmente em transição de carreira para área
-       de Desenvolvimento Web Full Stack. Tecnologia pra mim representa foco, disciplina
-       e paixão por cada detalhe. Meu primeiro contato com desenvolvimento web foi na Trybe,
-       onde eu desenvolvi algumas habilidades de Soft Skills e Hard Skills.`, 
+    myProfile: `Sou formada em Administração e atualmente estou em transição de carreira
+       para a área de Desenvolvimento Web. Tecnologia pra mim representa foco, disciplina
+       e paixão por cada detalhe. Meu primeiro contato com desenvolvimento foi na Trybe,
+       onde eu desenvolvi algumas habilidades de Soft Skills e Hard Skills.`,
     myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedora Full Stack,
        com a finalidade de adquirir esxperiencia para impactar mais vidas utilizando a programação!`,      
   },
