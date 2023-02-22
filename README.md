@@ -45,7 +45,7 @@ export default {
 ##
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=1&pause=1&width=170&height=29&lines=Contact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=1&pause=1&width=100&height=29&lines=Contact)](https://git.io/typing-svg)
 
 <div><br>
   <a href="https://www.instagram.com/caarolhn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
