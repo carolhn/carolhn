@@ -13,7 +13,7 @@ export default {
   from: 'Tubarão - Brazil',
   email: 'nunescaroline905@gmail.com',
   linkedin: 'https://www.linkedin.com/in/caroline-nunes-devfullstack/',
-  contato: '(48)98803-7114',
+  phone: '(48)98803-7114',
   description: {
     myProfile: `Sou formada em Administração e fiz transição de carreira para a
        área de Desenvolvimento Web. Tecnologia pra mim representa foco, disciplina
