@@ -23,7 +23,7 @@ export default {
   },
   skills: {
     languages: [
-      'Javascript', 'TypeScript',
+      'Javascript', 'TypeScript', 'Python',
     ],    
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'React',
