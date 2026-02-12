@@ -1,66 +1,91 @@
 <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="45" />
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=2589EE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=205&lines=Hello+World%2C)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=EEEEEE&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=405&lines=I'+m+Caroline+Nunes(Carol))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+World!!)](https://git.io/typing-svg)
 </div>
   
-  
-```javascript
+##
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+```javascript
 export default {
-  name: 'Caroline Nunes da Silva',
-  from: 'Tubarão - Brazil',
-  email: 'nunescaroline905@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/caroline-nunes-devfullstack/',
-  phone: '(48)98803-7114',
-  description: {
-    myProfile: `Sou formada em Administração e fiz transição de carreira para a
-       área de Desenvolvimento Web. Tecnologia pra mim representa foco, disciplina
-       e paixão por cada detalhe.`,
-    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedora Full Stack, com
-       a finalidade de adquirir experiência para impactar mais vidas utilizando a programação!`,      
-  },
-  skills: {
-    languages: [
-      'Javascript', 'TypeScript', 'Python',
-    ],    
+  name: "Caroline Nunes",
+  role: "Full Stack Developer",
+  location: "Brazil 🇧🇷",
+  currentCompany: "Tata Consultancy Services (TCS)",
+  project: "Global project for Johnson & Johnson Vision (USA)",
+  about: `
+      Full Stack Developer at Tata Consultancy Services (TCS), contributing to a global project for Johnson & Johnson.
+
+      Over the past 4 years, I have been building scalable and high-performance web applications using React.js, Node.js, TypeScript, and JavaScript. 
+      My work focuses on clean architecture, maintainable code, performance optimization, and user-centered solutions.
+
+      I actively contribute to software quality through unit testing (Jest), monitoring and observability (Apigee, Google Analytics), 
+      and technical documentation (Confluence). Experienced in Agile methodologies such as Scrum and Kanban, 
+      collaborating with cross-functional global teams.
+
+      Passionate about continuous learning and technical growth.
+    `,
+  techStack: {
     frontend: [
-      'HTML5', 'CSS3', 'Javascript', 'React',
-      'Redux', 'Context API', 'Hooks', 'RTL',
-      'Jest', 'Testing Library',
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Redux",
+      "Context API",
+      "Hooks",
+      "HTML5",
+      "CSS3",
     ],
+
     backend: [
-      'Node.js', 'Express', 'JWT',
-      'MySQL', 'MongoDB','Sequelize',
+      "Node.js",
+      "Express",
+      "JWT",
+      "Sequelize",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "REST APIs",
     ],
-    tools: [
-      'Git', 'Github', 'Trello','Docker',
-      'Visual Studio Code', 'Terminal',
+
+    testing: ["Jest", "React Testing Library", "Unit Testing"],
+
+    devOps_and_tools: [
+      "Docker",
+      "Git",
+      "GitHub",
+      "AWS",
+      "VS Code",
+      "Terminal",
+      "Apigee",
+      "Google Analytics",
+      "Confluence",
     ],
+  },
+
+  contact: {
+    email: "nunescaroline905@gmail.com",
+    linkedin: "https://www.linkedin.com/in/caroline-nunes-devfullstack/",
   },
 };
-
 ```
-##
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=1&pause=1&width=100&height=29&lines=Contact)](https://git.io/typing-svg)
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-nunes-devfullstack/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caarolhn/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/48988037114)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunescaroline905@gmail.com)
-</div>
- 
- 
 ##
 
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=1&pause=8000&width=170&lines=Profile+Visitor+Count)](https://git.io/typing-svg)
- 
-<img align="center" src="https://komarev.com/ghpvc/?username=carolhn&color=blue&style=for-the-badge" />
-</div> 
+GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carolhn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&theme=tokyonight" />
+</p>
+
+##
+
+Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
