@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="45" />
+  <img 
+    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" 
+    height="45" 
+  />
+  <br/><br/>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&repeat=false&width=500&lines=Hello+World!!" 
+      alt="Typing SVG" 
+    />
+  </a>
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&vCenter=true&repeat=false&width=435&lines=Hello+World!!)](https://git.io/typing-svg)
-
-</div>
-  
 ##
 
 <p align="center">
