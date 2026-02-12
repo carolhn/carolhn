@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+World!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&vCenter=true&repeat=false&width=435&lines=Hello+World!!)](https://git.io/typing-svg)
 
 </div>
   
@@ -74,5 +74,3 @@ export default {
   },
 };
 ```
-
-##
