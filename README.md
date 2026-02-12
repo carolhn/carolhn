@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="45" />
- 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="45" />
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+World!!)](https://git.io/typing-svg)
+
 </div>
   
 ##
@@ -14,18 +18,19 @@
 export default {
   name: "Caroline Nunes",
   role: "Full Stack Developer",
-  location: "Brazil 🇧🇷",
+  location: "Brazil",
   currentCompany: "Tata Consultancy Services (TCS)",
   project: "Global project for Johnson & Johnson Vision (USA)",
   about: `
       Full Stack Developer at Tata Consultancy Services (TCS), contributing to a global project for Johnson & Johnson.
 
-      Over the past 4 years, I have been building scalable and high-performance web applications using React.js, Node.js, TypeScript, and JavaScript. 
-      My work focuses on clean architecture, maintainable code, performance optimization, and user-centered solutions.
+      Over the past 4 years, I have been building scalable and high-performance web applications using React.js, Node.js,
+      TypeScript, and JavaScript. My work focuses on clean architecture, maintainable code, performance optimization
+      and user-centered solutions.
 
-      I actively contribute to software quality through unit testing (Jest), monitoring and observability (Apigee, Google Analytics), 
-      and technical documentation (Confluence). Experienced in Agile methodologies such as Scrum and Kanban, 
-      collaborating with cross-functional global teams.
+      I actively contribute to software quality through unit testing (Jest), monitoring and observability
+      (Apigee, Google Analytics), and technical documentation (Confluence). Experienced in Agile 
+      methodologies such as Scrum and Kanban, collaborating with cross-functional global teams.
 
       Passionate about continuous learning and technical growth.
     `,
@@ -40,7 +45,6 @@ export default {
       "HTML5",
       "CSS3",
     ],
-
     backend: [
       "Node.js",
       "Express",
@@ -51,9 +55,7 @@ export default {
       "MongoDB",
       "REST APIs",
     ],
-
-    testing: ["Jest", "React Testing Library", "Unit Testing"],
-
+    testing: ["Jest", "Testing Library", "Unit Testing"],
     devOps_and_tools: [
       "Docker",
       "Git",
@@ -66,7 +68,6 @@ export default {
       "Confluence",
     ],
   },
-
   contact: {
     email: "nunescaroline905@gmail.com",
     linkedin: "https://www.linkedin.com/in/caroline-nunes-devfullstack/",
@@ -75,17 +76,3 @@ export default {
 ```
 
 ##
-
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolhn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolhn&layout=compact&theme=tokyonight" />
-</p>
-
-##
-
-Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
